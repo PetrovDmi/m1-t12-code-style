@@ -19,4 +19,6 @@ public class PostComment {
     public void setWhoLiked(String[] whoLiked) {
         this.whoLiked = whoLiked;
     }
+
+
 }
